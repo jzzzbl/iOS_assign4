@@ -1,9 +1,8 @@
 //
 //  RealtimeDB.swift
-//  iOS_assign4
+//  
 //
-//  Created by Jezebel Torres on 2020-04-08.
-//  Copyright © 2020 Sandra Mannila. All rights reserved.
+//  Created by Jezebel Torres on 2020-03-12.
 //
 
 import Foundation

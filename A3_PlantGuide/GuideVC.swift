@@ -1,9 +1,9 @@
 //
-//  GuideVC.swift
-//  iOS_assign4
+//  guideVC.swift
+//  assign3
 //
-//  Created by Jezebel Torres on 2020-04-08.
-//  Copyright © 2020 Sandra Mannila. All rights reserved.
+//  Created by Jezebel Torres on 2020-04-04.
+//  Copyright © 2020 Jezebel Torres. All rights reserved.
 //
 
 import Foundation
