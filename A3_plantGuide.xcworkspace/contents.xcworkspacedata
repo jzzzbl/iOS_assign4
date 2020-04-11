@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../../../../../../Downloads/Flash-Chat-iOS13/Flash Chat iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../../../../Downloads/Flash-Chat-iOS13/README.md">
+   </FileRef>
+   <FileRef
+      location = "group:Flash Chat iOS13">
+   </FileRef>
+   <FileRef
       location = "group:../../../../../../../xCode/assign3-final/A3_PlantGuide.xcodeproj">
    </FileRef>
    <FileRef
